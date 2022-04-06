@@ -32,7 +32,6 @@ html {
   }
   body {
     background-color:  var(--black);
-    min-height: 800px;
   }
   label {
     color: white;
