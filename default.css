@@ -411,6 +411,10 @@ footer {
   padding: 10px;
 }
 
+footer a {
+  color: #885dd0;
+}
+
 /* -----------------MEDIA QUERIES----------------------*/
 @media only screen and (max-width: 760px) {
 /* make the table not like a table */
