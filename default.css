@@ -393,7 +393,16 @@ html {
   height: auto;
 }
 
-
+/*-------------TOS/PP-------------*/
+.privacy-policy,
+.terms-and-conditions {
+  color: var(--white);
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1rem;
+  max-width: 100ch;
+  margin: auto;
+  padding: 10px;
+}
 /*-------------Footer-------------*/
 footer {
   color: white;
@@ -401,7 +410,6 @@ footer {
   font-family: "Lato", sans-serif;
   padding: 10px;
 }
-
 
 /* -----------------MEDIA QUERIES----------------------*/
 @media only screen and (max-width: 760px) {
