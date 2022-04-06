@@ -32,6 +32,7 @@ html {
   }
   body {
     background-color:  var(--black);
+    min-height: 800px;
   }
   label {
     color: white;
@@ -392,6 +393,7 @@ html {
   max-width: 100%;
   height: auto;
 }
+
 
 /*-------------Footer-------------*/
 footer {
