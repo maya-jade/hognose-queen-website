@@ -188,6 +188,8 @@ html {
   }
   #mailing-form {
     padding: 25px;
+    width: 75%;
+    margin: auto;
   }
   
   .mailing-input {
