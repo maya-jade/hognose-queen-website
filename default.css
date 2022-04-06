@@ -319,6 +319,9 @@ html {
     margin: auto;
     padding: 2rem;
     line-height: 2;
+    grid-template-columns: repeat(2, 1fr);
+    border-bottom: var(--borderblue) 1px solid;
+    margin-bottom: 2em;
   }
   .selfie {
     max-width: 100%;
